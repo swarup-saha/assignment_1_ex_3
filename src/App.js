@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Welcome from "./components/Welcome";
+import Counter from "./components/Counter";
 
 export default function App() {
-  return <Welcome name="swarup" />;
+  return <Counter />;
 }
